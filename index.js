@@ -10,3 +10,7 @@ function happyHolidaysTo(name){
 function happyHolidayTo(holiday,name){
   retunr(`Happy ${holiday}, ${name}!`)
 }
+
+function holidayCountdown(days,holiday){
+  return ()
+}
